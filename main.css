@@ -21,3 +21,54 @@ body{
 .box{
     height: 100vh;
 }
+.box1{
+    background-color: #05711b;
+}
+.box2{
+    background: rgb(16,46,0);
+    background: linear-gradient(90deg, rgba(16,46,0,1) 0%, rgba(18,92,31,1) 35%, rgba(46,130,49,1) 100%);
+}
+.box3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(35,152,8);
+background: radial-gradient(circle, rgba(35,152,8,1) 0%, rgba(4,61,1,1) 100%);
+}
+.box3 p{
+    width: 50%;
+    height: 50%;
+    background-color: #00c5c562;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box4{
+background-image: url(img/ava7patterns_pattern_1138.png);
+}
+.box5{
+    background-image: url(img/1612230360_120-p-fioletovii-paporotnik-fon-177.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box5 p{
+    width: 50%;
+    height: 50%;
+    background-color: #011a0bd4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+}
+.box6{
+    background-image: url(img/e7f4f592f2f2f1d212ca1e225ef46360.png);
+    background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+background-position: 50% 50%;
+}
